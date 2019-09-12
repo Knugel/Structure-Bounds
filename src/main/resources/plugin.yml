@@ -1,0 +1,10 @@
+name: Structure-Bounds
+version: ${project.version}
+main: knugel.structurebounds.StructureBounds
+api-version: 1.13
+authors: [Knugel]
+description: Plugin for visualizing Structure Bounding-Boxes
+commands:
+  sbb:
+    description: Toggles Bounding-Box Visibility
+    usage: /sbb

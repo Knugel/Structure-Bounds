@@ -1,0 +1,12 @@
+# Radius in which the boundary is visible
+# Default: 10
+radius: 10
+# Distance between the particles used for displaying the border (1 = 1 Block)
+# Default 0.5
+distance: 0.5
+# RGB Color of the border particles
+# Default Black (0, 0, 0)
+color: 0x000000
+# How often to spawn new particles
+# Default 5
+frequency: 5
